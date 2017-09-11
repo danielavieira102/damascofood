@@ -1,0 +1,2 @@
+class Greenfood < ApplicationRecord
+end
